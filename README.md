@@ -1,6 +1,6 @@
 # CodeRefactorAccessibility
 
-Code Refactor - accessibility
+Code Refactor - Accessibility
 
 The task for this project was to refactor the code. 
 
